@@ -1,0 +1,3 @@
+#前言
+感谢GitHub/bailicangdu的原型及经验支持。
+新手从模仿起步，理解vue之路...
